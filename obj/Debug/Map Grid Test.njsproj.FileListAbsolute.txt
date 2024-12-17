@@ -1,0 +1,3 @@
+C:\Users\markc\source\repos\Map Grid Test\Map Grid Test\obj\Debug\Map Grid Test.njsproj.AssemblyReference.cache
+C:\Users\markc\source\repos\Map Grid Test\Map Grid Test\obj\Debug\Map Grid Test.njsproj.CoreCompileInputs.cache
+C:\Users\markc\source\repos\Map Grid Test\Map Grid Test\bin\Microsoft.NodejsTools.WebRole.dll

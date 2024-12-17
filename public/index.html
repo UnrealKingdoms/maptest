@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Image Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2>Menu</h2>
+            <ul id="menu">
+                <li class="menu-item" data-option="ruby">Ruby</li>
+                <li class="menu-item" data-option="gold">Gold</li>
+                <li class="menu-item" data-option="diamond">Diamond</li>
+            </ul>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main">
+            <div id="image-container">
+                <img src="background.jpg" id="main-image" alt="Background">
+                <canvas id="canvas"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup -->
+    <div id="popup">
+        <p>Price: $10</p>
+        <button id="purchase-btn">Purchase</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

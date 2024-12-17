@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">map-grid-test</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.0.0</PackageJsonVersion>
+    <PackageJsonDescription Condition="$(PackageJsonDescription) == ''">Map Grid Test</PackageJsonDescription>
+    <PackageJsonMain Condition="$(PackageJsonMain) == ''">server.js</PackageJsonMain>
+    <PackageJsonAuthor Condition="$(PackageJsonAuthor) == ''"></PackageJsonAuthor>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^8.21.0</PackageJsonDevdependenciesEslint>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">node server.js</PackageJsonScriptsStart>
+    <PackageJsonKeywords Condition="$(PackageJsonKeywords) == ''">[]</PackageJsonKeywords>
+    <PackageJsonLicense Condition="$(PackageJsonLicense) == ''">ISC</PackageJsonLicense>
+    <PackageJsonDependenciesExpress Condition="$(PackageJsonDependenciesExpress) == ''">^4.21.2</PackageJsonDependenciesExpress>
+    <PackageJsonDependenciesFs Condition="$(PackageJsonDependenciesFs) == ''">^0.0.1-security</PackageJsonDependenciesFs>
+  </PropertyGroup>
+</Project>

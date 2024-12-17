@@ -1,0 +1,32 @@
+[
+  {
+    "x": 150,
+    "y": 200,
+    "radius": 25,
+    "type": "ruby"
+  },
+  {
+    "x": 300,
+    "y": 300,
+    "radius": 50,
+    "type": "gold"
+  },
+  {
+    "x": 500,
+    "y": 500,
+    "radius": 100,
+    "type": "diamond"
+  },
+  {
+    "x": 116,
+    "y": 508,
+    "radius": 25,
+    "type": "ruby"
+  },
+  {
+    "x": 504,
+    "y": 126,
+    "radius": 50,
+    "type": "gold"
+  }
+]

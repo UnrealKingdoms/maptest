@@ -1,0 +1,20 @@
+{
+  "name": "map-grid-test",
+  "version": "0.0.0",
+  "description": "Map Grid Test",
+  "main": "server.js",
+  "author": "",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security"
+  }
+}
